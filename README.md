@@ -25,8 +25,8 @@
 ---
 
 ## 📫 Liên hệ
-- 🌐 Website/Blog: [#]
-- 💼 LinkedIn: [[điền link của anh](https://www.linkedin.com/in/levanchien/)]
+- 🌐 Website/Blog: [ # ]
+- 💼 LinkedIn: [https://www.linkedin.com/in/levanchien/]
 - 📧 Email: [levanchien.it@gmail.com]
 
 ---
