@@ -26,7 +26,7 @@
 
 ### VTI Group — PHP Leader *(Sep 2024 – Present)*
 Leading 3–10 engineers across 5+ concurrent Japanese software projects:
-- **Mammy Mart MDS** — Product distribution management system (Django 5, PostgreSQL, Vue 3)
+- **Mammy Mart** — Product distribution management system (Django 5, PostgreSQL, VueJs 3)
 - **MSAP Ticket / Resale** — Large-scale J-League ticketing platform with GMO PG payment integration (Laravel 11, AWS)
 - **FC Sanfrecce & FC Swallows Fanclub** — Official fanclub websites for Japanese football/baseball clubs
 - **Medical** — Pharmacy management system for a Japanese retail chain
